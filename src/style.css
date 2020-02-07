@@ -21,13 +21,16 @@ body {
     margin: 30px;
 }
 
+
+
 .text {
     border: 2px solid #02b1c8;
     width: 280px;
-    border-radius: 2px;
+    border-radius: 30px;
     resize: vertical;
     font-size: 20px;
     font-family: 'Lexend Mega', sans-serif;
+    text-align: center;
 }
 
 .actions {
@@ -39,7 +42,7 @@ body {
     font-size: 18px;
     color:#7ffa67;
     padding: 12px 20px;
-    border-radius: 2px;
+    border-radius: 20px;
     cursor: pointer;
     font-weight: bold;
     -webkit-transition: all 300ms linear;
@@ -50,6 +53,7 @@ body {
     margin: 15px;
     border: 2px solid #7ffa67;
 }
+
 
 button:hover {
     background: #7ffa67; 

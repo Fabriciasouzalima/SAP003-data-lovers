@@ -88,3 +88,4 @@ Devido ao feedback recebido nos testes de usabilidade, foram refatorados os bot√
 * Vanilla JS
 * HTML 5
 * CSS
+* Testes com Jest
